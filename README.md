@@ -3,5 +3,5 @@
 
 Node.js course with Patika 
 
-This will incule my homeworks.
+This will include my homeworks.
 
